@@ -20,7 +20,7 @@ function App() {
         >
           Learn React
         </a>
-        <ButtonComponent />
+        <ButtonComponent/>
       </header>
     </div>
   );

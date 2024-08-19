@@ -1,6 +1,6 @@
 const ButtonComponent = function () {
     return (
-        <button>Questo è un bottone!</button>
+        <button className = "spacing">Questo è un bottone!</button>
     )
 }
 
